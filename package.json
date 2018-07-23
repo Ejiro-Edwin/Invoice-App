@@ -1,0 +1,26 @@
+{
+  "name": "invoice-app",
+  "version": "1.0.0",
+  "description": "A mini invoicing application using Vue and Nodejs to perform creating an Invoice, sending, editing and deleleting ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ejiro-Edwin/Invoice-App.git"
+  },
+  "keywords": [
+    "Invoice",
+    "Nodejs",
+    "Vuejs",
+    "Business",
+    "APP"
+  ],
+  "author": "Obamrevwo Ejiro Edwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ejiro-Edwin/Invoice-App/issues"
+  },
+  "homepage": "https://github.com/Ejiro-Edwin/Invoice-App#readme"
+}

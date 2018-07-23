@@ -1,0 +1,3 @@
+# Mini Invoicing APP
+
+To get paid for goods and services provided, companies/freelancers need to send invoices to their customers informing them of the services that they will be charged for. Back then, people had paper invoices which they gave to the customers when they contact them for their services. Right now, with the advent and advancement of technology, people are now able to send electronic invoices to their customers.
