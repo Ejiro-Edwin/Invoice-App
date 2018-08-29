@@ -1,0 +1,6 @@
+{
+    "mail": {
+        "password":"invoice_password",
+        "JwtPrivateKey": "invoice_JwtPrivateKey"
+    }
+}
